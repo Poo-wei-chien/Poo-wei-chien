@@ -62,7 +62,9 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
   <img src="https://img.shields.io/badge/-Firebase-039BE5?style=flat&logo=firebase" alt="Firebase" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat&logo=alibaba-cloud&logoColor=white" alt="Alibaba Cloud" />
 </p>
+
 
 ---
 
