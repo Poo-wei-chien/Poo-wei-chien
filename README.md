@@ -1,4 +1,4 @@
-# 🥷 Poo Wei Chien <h1 align="center">Hi there, I'm Wei Chien Poo 👋</h1>
+# <h1 align="center">🥷 Poo Wei Chien (Rain)</h1>
 
 **` Tech Enthusiast (Developer/Photographer/Designer)`**
 
