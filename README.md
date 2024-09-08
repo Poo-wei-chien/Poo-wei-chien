@@ -29,6 +29,15 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
+#### **AI & Machine Learning Technologies**
+<p align="center">
+  <img src="https://img.shields.io/badge/-LLM-FF6F00?style=flat&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-TensorFlow%20%26%20Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-8C5E58?style=flat&logo=deeplearningai&logoColor=white" alt="Deep Learning" />
+</p>
+
 #### **Frameworks**
 <p align="center">
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
@@ -37,15 +46,6 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
   <img src="https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
-
-#### **🔬 AI & Machine Learning Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/-LLM-FF6F00?style=flat&logo=openai&logoColor=white" alt="LLM" />
-  <img src="https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat&logo=opencv&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-TensorFlow%20%26%20Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow and Keras" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-8C5E58?style=flat&logo=deeplearningai&logoColor=white" alt="Deep Learning" />
 </p>
 
 #### **Databases**
