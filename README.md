@@ -22,7 +22,7 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
