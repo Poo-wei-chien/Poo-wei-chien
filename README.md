@@ -14,7 +14,7 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/wei-chien-poo-7676a8239">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
