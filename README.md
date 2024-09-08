@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Wei Chien Poo 👋</h1>
+<h1 align="center">Hi there, I'm Poo Wei Chien 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=0EAEF7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Artificial+Intelligence+Student;Passionate+about+Data+Science+%26+AI;Always+Learning+New+Things" alt="Typing SVG" />
@@ -58,4 +58,5 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poo-wei-chien&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Poo-wei-chien&hide_border=true&theme=dark" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poo-wei-chien&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
