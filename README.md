@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Poo Wei Chien 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=0EAEF7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Artificial+Intelligence+Student;Passionate+about+Data+Science+%26+AI;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=0EAEF7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Exploring+the+World+of+AI+and+Software+Engineering;Transforming+Ideas+into+Innovative+Solutions;Driven+by+Curiosity+and+Passion+for+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-#### **AI & Machine Learning Technologies**
+#### **AI & Machine Learning**
 <p align="center">
   <img src="https://img.shields.io/badge/-LLM-FF6F00?style=flat&logo=openai&logoColor=white" alt="LLM" />
   <img src="https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat&logo=opencv&logoColor=white" alt="Computer Vision" />
