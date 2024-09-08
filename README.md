@@ -3,7 +3,7 @@
 **` Tech Enthusiast (Developer/Designer/Photographer)`**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=0EAEF7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Exploring+the+World+of;Artificial+Intelligence+and;Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=100&color=0EAEF7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Exploring+the+World+of;Artificial+Intelligence+and;Software+Engineering" alt="Typing SVG" />
 </p>
 
 ---
