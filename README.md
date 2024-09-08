@@ -65,6 +65,15 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
   <img src="https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat&logo=alibaba-cloud&logoColor=white" alt="Alibaba Cloud" />
 </p>
 
+#### **Design & Multimedia**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white" alt="Adobe Lightroom" />
+  <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/-DaVinci%20Resolve-000000?style=flat&logo=blackmagicdesign&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/-CapCut-FF4D3A?style=flat&logo=capcut&logoColor=white" alt="CapCut" />
+</p>
 
 ---
 
