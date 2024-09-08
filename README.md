@@ -1,5 +1,40 @@
 # 💫 About Me:
-I'm currently study Artificial Intelligence
+I'm currently studying Bachelor's Degree in Artificial Intelligence @ Universiti Malaya. Feel free to connect my LinkedIn below.
+
+<h1 align="center">Hi there, I'm Wei Chien Poo 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=0EAEF7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Artificial+Intelligence+Student;Passionate+about+Data+Science+%26+AI;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌟 About Me:
+- 🎓 **AI Student** @ Universiti Malaya
+- 🧠 Enthusiast in Machine Learning, Deep Learning, and Data Science
+- 🤝 Open to collaboration on AI projects and research
+- 📚 Continuously exploring the latest in AI tech
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-chien-poo-7676a8239/)
+
+### 🚀 Tech Stack:
+- **Languages**: Python, R, Java, SQL
+- **Tools**: Jupyter, VS Code, PyCharm, Git
+- **Libraries**: TensorFlow, PyTorch, Scikit-learn, Pandas, Numpy
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🎯 Fun Fact:
+- I’m always excited to discuss anything related to Artificial Intelligence, so feel free to reach out!
+
+---
+
+⭐️ From [Your Name](https://github.com/yourusername)
 
 
 ## 🌐 Socials:
