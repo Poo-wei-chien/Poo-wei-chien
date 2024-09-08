@@ -86,6 +86,6 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-Poo-wei-chien.vercel.app/api?username=Poo-wei-chien&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats-Poo-wei-chien.herokuapp.com/?user=Poo-wei-chien&hide_border=true&theme=dark" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-Pooweichien.vercel.app/api?username=Poo-wei-chien&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats-Pooweichien.herokuapp.com/?user=Poo-wei-chien&hide_border=true&theme=dark" alt="GitHub Streak" />
 </p>
