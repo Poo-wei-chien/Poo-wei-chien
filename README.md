@@ -31,11 +31,27 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 
 #### **Frameworks**
 <p align="center">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
+
+### **🔬 AI Technologies**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-LLM-FF6F00?style=flat&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-TensorFlow%20%26%20Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow and Keras" />
+</p>
+
+- **LLM (Large Language Models):** Explored the intricacies of NLP and transformer-based architectures.
+- **Computer Vision (CV):** Worked on projects involving image recognition, object detection, and image processing.
+- **TensorFlow & Keras:** Built and trained deep learning models with ease using Keras' user-friendly interface on top of TensorFlow's powerful backend.
+- **PyTorch:** Developed models with flexible, dynamic computation graphs for deep learning research.
 
 #### **Databases**
 <p align="center">
@@ -58,5 +74,4 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poo-wei-chien&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Poo-wei-chien&hide_border=true&theme=dark" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poo-wei-chien&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
