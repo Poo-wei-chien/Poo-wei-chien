@@ -89,8 +89,8 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 
 ### ⚡ My Stats
 <p align="center">
-  <a href="https://github.com/Poo-wei-chien"><img height="180em" weight = "400" src="https://github-readme-stats.vercel.app/api?username=Poo-wei-chien&show_icons=true&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/Poo-wei-chien"><img height="180em" weight = "400" src="https://github-readme-streak-stats.herokuapp.com/?user=Poo-wei-chien&theme=dark&show_icons=true&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true" alt="GitHub Streak" /></a>
-    <a href="https://leetcode.com/Rain_Poo/"><img height="180em" weight = "400" src="https://leetcode.card.workers.dev/Rain_Poo?show_icons=true&theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/Poo-wei-chien"><img height="180em" weight = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poo-wei-chien&show_icons=true&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  <a href="https://github.com/Poo-wei-chien"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Poo-wei-chien&show_icons=true&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true" alt="GitHub Stats" /></a>
+  <a href="https://github.com/Poo-wei-chien"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Poo-wei-chien&theme=dark&show_icons=true&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true" alt="GitHub Streak" /></a>
+    <a href="https://leetcode.com/Rain_Poo/"><img height="150em" src="https://leetcode.card.workers.dev/Rain_Poo?show_icons=true&theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/Poo-wei-chien"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poo-wei-chien&show_icons=true&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
