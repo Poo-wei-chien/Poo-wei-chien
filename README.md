@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+the+World+of;Artificial+Intelligence+and;Software+Engineering!&font=Protest+Guerrilla&color=4AFAFEFF&center=true&vCenter=true&multiline=true&width=400&height=100&duration=2000&pause=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+the+World+of;Artificial+Intelligence+and;Software+Engineering!&font=Protest+Guerrilla&color=4AFAFEFF&center=true&vCenter=true&multiline=true&width=350&height=100&duration=2000&pause=50">
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Poo-wei-chien" alt="pooweichien" /></a> </p>
