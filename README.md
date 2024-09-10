@@ -1,9 +1,11 @@
-# <h1 align="center">🤾‍♂️ Poo Wei Chien (Rain)</h1>
-
-**` Tech Enthusiast (Developer/Designer/Photographer)`**
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&size=22&duration=2000&pause=100&color=4AFAFEFF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Exploring+the+World+of;Artificial+Intelligence+and;Software+Engineering" alt="Typing SVG" />
+    <h1 align="center">🤾‍♂️ Poo Wei Chien (Rain) ✩</h1>
+</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+the+World+of;Artificial+Intelligence+and;Software+Engineering!&font=Protest+Guerrilla&color=4AFAFEFF&center=true&vCenter=true&multiline=true&width=400&height=100&duration=2000&pause=50">
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Poo-wei-chien" alt="pooweichien" /></a> </p>
@@ -89,4 +91,9 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poo-wei-chien&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Poo-wei-chien&hide_border=true&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+    <a href="https://leetcode.com/Rain_Poo/"><img height="180em" src="https://leetcode.card.workers.dev/Rain_Poo?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/Poo-wei-chien"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poo-wei-chien&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
