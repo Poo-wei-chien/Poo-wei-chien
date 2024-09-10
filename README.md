@@ -3,9 +3,15 @@
 <p align="center">
     <h1 align="center">🤾‍♂️ Poo Wei Chien (Rain) ✩</h1>
 </p>
+</br>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+the+World+of;Artificial+Intelligence+and;Software+Engineering!&font=Protest+Guerrilla&color=4AFAFEFF&center=true&vCenter=true&multiline=true&width=280&height=100&duration=2000&pause=50">
+</p>
+</br>
+
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Poo-wei-chien&color=grey">
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Poo-wei-chien" alt="pooweichien" /></a> </p>
