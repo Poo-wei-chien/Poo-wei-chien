@@ -2,7 +2,7 @@
 
 **` Tech Enthusiast (Developer/Designer/Photographer)`**
 
-<p align="center">
+## <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&size=22&duration=2000&pause=100&color=4AFAFEFF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Exploring+the+World+of;Artificial+Intelligence+and;Software+Engineering" alt="Typing SVG" />
 </p>
 
