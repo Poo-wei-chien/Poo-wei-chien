@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&size=22&duration=2000&pause=100&color=4AFAFEFF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Exploring+the+World+of;Artificial+Intelligence+and;Software+Engineering" alt="Typing SVG" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Poo-wei-chien" alt="pooweichien" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Poo-wei-chien" alt="pooweichien" /></a> </p>
 
 ---
 
