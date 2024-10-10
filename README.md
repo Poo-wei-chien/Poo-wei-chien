@@ -89,6 +89,8 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Poo-wei-chien/Poo-wei-chien/output/github-contribution-grid-snake-dark.svg" />
 
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
+  
 ---
 
 ### ⚡ My Stats
