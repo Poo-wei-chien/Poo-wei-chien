@@ -100,3 +100,13 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
     <a href="https://leetcode.com/Rain_Poo/"><img height="150em" src="https://leetcode.card.workers.dev/Rain_Poo?show_icons=true&theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/Poo-wei-chien"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poo-wei-chien&show_icons=true&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
+
+---
+
+### 🎧 Spotify Playing
+
+<div align="center">
+    
+[![Spotify](https://rain-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3137266funuvk4n5pfscx5dx5pnq?si=3efe31e5751744ff)
+
+</div>
