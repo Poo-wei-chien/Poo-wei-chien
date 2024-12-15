@@ -12,7 +12,7 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=Poo-wei-chien&color=grey">
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Poo-wei-chien" alt="pooweichien" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Poo-wei-chien&column=-1" alt="pooweichien" /></a> </p>
 
 ---
 
@@ -86,11 +86,14 @@ I'm a final-year AI student at Universiti Malaya with a strong passion for Softw
 
 ---
 ### 🐍 My Contributions
-
+<p align="center">
+    
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Poo-wei-chien/Poo-wei-chien/output/github-contribution-grid-snake-dark.svg" />
 
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
-  
+
+</p>
+
 ---
 
 ### ⚡ My Stats
